@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.17.1",
+    "excel4node": "^1.8.2",
+    "fs-extra": "^11.2.0",
+    "node-native-ocr": "^0.3.9",
+    "pdf-lib": "^1.17.1"
+  }
+}
