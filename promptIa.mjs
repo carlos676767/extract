@@ -6,17 +6,17 @@ const promptIa = (prompt) => {
 
     Nome: Roberta (exemplo)
     CPF: 453.489.687-00 (exemplo)
-    Nome do Pai/Mãe: Carlos da Silva e Ana Souza (exemplo)
-    Data de Nascimento: 19/10/1985 (exemplo)
-    Motivo da Entrada: Acompanhamento (exemplo)
+    NomedoPaiMãe: Carlos da Silva e Ana Souza (exemplo)
+    DatadeNascimento: 19/10/1985 (exemplo)
     Bairro: Jardim das Flores (exemplo)
-    Data de Entrada: 01/10/2024 (exemplo)
-    Hora de Entrada: 09:00 (exemplo)
-    Data de Saída: 10/04/1998 (exemplo)
-    Hora de Saída: 20:45 (exemplo)
+    DatadeEntrada: 01/10/2024 (exemplo)
+    HoradeEntrada: 09:00 (exemplo)
+    DatadeSaída: 10/04/1998 (exemplo)
+    HoradeSaída: 20:45 (exemplo)
+    
     Telefone: (11) 99999-9999 (exemplo)
 
-    Além disso, envie apenas um arquivo .json contendo os dados extraídos. 
+    Além disso, envie apenas um arquivo .json contendo os dados extraídos.
     Preste muita atenção à estrutura do texto para identificar e extrair corretamente cada campo.`;
 };
 
